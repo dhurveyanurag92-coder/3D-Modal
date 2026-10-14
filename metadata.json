@@ -1,0 +1,8 @@
+{
+  "name": "Remix Vintage Wall Lantern 3D Studio",
+  "description": "Interactive 360° 3D model visualizer and customizer for the vintage floral filigree outdoor wall lantern.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
